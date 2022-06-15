@@ -10,3 +10,4 @@ input.addEventListener('click', clickAlert);
 
 
 // document.querySelector('#input').addEventListener ('click', () => alert('Thank you for clicking me'))
+// EventListener added
